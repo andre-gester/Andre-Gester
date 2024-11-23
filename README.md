@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm currently studying statistics @LMU in Munich-Germany
+I'm currently studying statistics @LMU in Munich, Germany
 Mostly learning R but dibbled into some other languages as well.
 <!--
 **Andre-Gester/Andre-Gester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
